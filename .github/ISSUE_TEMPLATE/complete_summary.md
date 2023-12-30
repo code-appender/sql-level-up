@@ -1,6 +1,6 @@
 ---
 name: Complete_Summary
-about: Describe this issue template's purpose here.
+about: 책을 읽고 요약한 내용을 올릴 때 이 템플릿을 이용합니다.
 title: ''
 labels: ''
 assignees: ''
