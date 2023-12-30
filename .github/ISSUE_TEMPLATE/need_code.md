@@ -1,7 +1,7 @@
 ---
 name: Need_Code
 about: 책에 나온 내용과 관련된 코드가 궁금할 때 이 템플릿을 이용합니다.
-title: " [\U0001F4BBCode] 주차_p_"
+title: "[\U0001F4BBCode] 주차_p_"
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: Complete_Summary
 about: 책을 읽고 요약한 내용을 올릴 때 이 템플릿을 이용합니다.
-title: ''
+title: "[\U0001F4D7Summary] 주차_ _요약"
 labels: ''
 assignees: ''
 
