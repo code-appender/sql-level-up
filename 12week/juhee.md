@@ -85,6 +85,6 @@ order by label;
 ```
 
 ### 결과
-![img_1.png](juhee-img_6.png)
-![img_2.png](juhee-img_7.png)
-![img.png](juhee-img_3.png)
+![img_1.png](image/juhee-img_6.png)
+![img_2.png](image/juhee-img_7.png)
+![img.png](image/juhee-img_3.png)
